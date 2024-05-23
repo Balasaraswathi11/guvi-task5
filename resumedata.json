@@ -1,19 +1,19 @@
 {
-  "fullName": "Balasaraswathi",
-  "contactInformation": {
-    "phoneNumber": "9787329631",
-    "email": "twilightestrella11@gmail.com",
-    "address": "3/13, Thoppu Street, Muthiahpuram, Thoothukudi."
+  "Name": "Balasaraswathi",
+  "ContactInformation": {
+    "PhoneNumber": "9787329631",
+    "Email": "twilightestrella11@gmail.com",
+    "Address": "3/13, Thoppu Street, Muthiahpuram, Thoothukudi."
   },
-  "objective": "To obtain a Javascript developer position that allows me to utilize my skills in coding and problem-solving to contribute to the success of the company.",
-  "education": [
+  "Objective": "To obtain a Javascript developer position that allows me to utilize my skills in coding and problem-solving to contribute to the success of the company.",
+  "Education": [
     {
       "degree": "Bachelor of Arts in English",
       "institution": "St.Mary's college",
       "yearOfGraduation": "2023"
     }
   ],
-  "skills": [
+  "Skills": [
     "JavaScript",
     "HTML/CSS",
     "Git",
@@ -22,14 +22,14 @@
     "Ms.Word",
     "Ms.Powerpoint"
   ],
-  "languages": [
+  "Languages": [
     "Tamil",
     "English",
     "Spanish",
     "Chinese",
     "Hindi"
   ],
-  "hobbiesInterests": [
+  "HobbiesInterests": [
     "Reading",
     "Coding",
     "Editing"
